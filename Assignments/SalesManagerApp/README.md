@@ -1,4 +1,4 @@
-# 🛍️ Sales Manager App 🛍️ #
+# 🛍️ Sales Manager Console App 🛍️ #
 
 This Console app provides salse management services for employees users:
 
